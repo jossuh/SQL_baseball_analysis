@@ -1,5 +1,7 @@
 # Baseball Players and Coaches SQL Analysis
 
+![banner]()
+
 This project demonstrates how to use SQL to answer various questions related to baseball players and coaches. The dataset includes information about players' salaries, birth years, awards, homeruns, stolen bases, ...
 You can find the dataset at: https://www.kaggle.com/datasets/open-source-sports/baseball-databank/data?select=AwardsSharePlayers.csv
 
