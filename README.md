@@ -12,7 +12,7 @@ The dataset used in this project is from [Kaggle's Baseball Databank](https://ww
 
 ## Objectives
 
-The objective of this project is to answer specific questions related to baseball data using SQL. The questions provided by my teacher are:
+The objective of this project is to answer specific questions related to baseball data using SQL. The questions provided are:
 
 - What is the average salary of a player in 1999? (¿Cuál es el salario promedio de un jugador del año 1999?)
 - In what year were the players who won the most awards born? (¿En qué año nacieron el/los jugador/es que más premios ha ganado?)
@@ -23,7 +23,7 @@ The objective of this project is to answer specific questions related to basebal
 
 ## Key Findings
 
-The project provides SQL queries to answer each of the specified questions. While the answers to these questions are the primary outcomes, they do not necessarily provide deeper insights beyond the specific queries.
+The project provides SQL queries to answer each of the specified questions.
 
 ## Project Structure
 
