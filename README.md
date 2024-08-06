@@ -29,16 +29,16 @@ The project provides SQL queries to answer each of the specified questions.
 
 The repository contains the following files:
 
-- `create_database.sql`: This file contains the SQL code to create the database tables and populate them with data.
-- `queries.sql`: This file contains the SQL queries used to answer the project questions.
+- `creacion.sql`: This file contains the SQL code to create the database tables and populate them with data.
+- `consultas.sql`: This file contains the SQL queries used to answer the project questions.
 
 ## Instructions
 
 To run this project:
 
 1. Download the repository.
-2. Open and run `create_database.sql` to set up the database with all necessary information.
-3. Open and run `queries.sql` to execute the queries that answer the specified questions.
+2. Open and run `creacion.sql` to set up the database with all necessary information.
+3. Open and run `consultas.sql` to execute the queries that answer the specified questions.
 
 There are no additional prerequisites or dependencies required.
 
